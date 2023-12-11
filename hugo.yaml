@@ -29,8 +29,8 @@ params:
   text_color:
   author: "Holt Road Alliance"
   favicon: ""
-  site_logo: "images/hra-logo-trans.png"
-  main_logo: "images/hra-logo.jpg"
+  site_logo: "/images/hra-logo-trans.png"
+  main_logo: "/images/hra-logo.jpg"
   main_logo_height: "130" # must be a string
   description: "A group of concerned neighbors for the betterment of the Holt Road corridor."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"

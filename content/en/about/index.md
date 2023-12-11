@@ -1,6 +1,7 @@
 ---
 title: "About"
 description: ""
+omit_header_text: true
 featured_image: "/images/hra-banner.jpg"
 menu:
   main:
