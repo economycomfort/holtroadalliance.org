@@ -19,7 +19,8 @@ and regular communication with the Cobb County board of commissioners.
 
 Presently, there is no official HRA board. However, general inquiries and 
 requests to participate in future HRA meetings can be forwarded to 
-[info@holtroadalliance.org](mailto:info@holtroadalliance.org).
+[info@holtroadalliance.org](mailto:info@holtroadalliance.org), or by leveraging
+the form on the [Contact Us]({{< ref "contact">}}) page.
 
 We would love to hear from you, especially if you are a neighbor in the general 
 Holt Road/Sewell Mill/East Marietta area.

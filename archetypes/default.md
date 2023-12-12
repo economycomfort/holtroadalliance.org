@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
+title: {{ replace .File.ContentBaseName "-" " " | title }}
 date: {{ .Date }}
-featured_image: ""
-description: ""
+featured_image:
+description:
 tags:
   - Holt Road
 omit_header_text: true

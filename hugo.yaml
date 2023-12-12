@@ -4,21 +4,23 @@ languageCode: "en-us"
 theme: "ananke"
 resourceDir: "./resources"
 
-DefaultContentLanguage: "en"
 SectionPagesMenu: "main"
 Paginate: 9 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics: "G-2K975ECL4N"
 enableRobotsTXT: true
 
+defaultContentLanguage: "en"
 languages:
   en:
     title: "Holt Road Alliance"
     weight: 1
     contentDir: "content/en"
-  #pt:
-  #  title: "Alinça Holt Road"
-  #  weight: 2
-  #  contentDir: "content/pt"
+    disabled: false
+  pt:
+    title: "Alinça Holt Road"
+    weight: 2
+    contentDir: "content/pt"
+    disabled: true
 
 sitemap:
   changefreq: "monthly"
