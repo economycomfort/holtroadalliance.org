@@ -94,7 +94,7 @@ through the intersection is at risk of a head-on collision from a left-turning
 vehicle making an improper assumption that the oncoming car is going to stop
 for them.
 
-![Imaginary Stop Sign](images/imaginary-stop-sign.png "Imaginary Stop Sign")
+![Imaginary Stop Sign](images/imaginary-stop-sign.jpg "Imaginary Stop Sign")
 
 ### Next Steps
 
