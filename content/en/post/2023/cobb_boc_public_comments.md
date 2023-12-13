@@ -1,8 +1,8 @@
 ---
-title: "Cobb BOC Meeting"
+title: Cobb BOC Meeting
 date: 2023-11-14T11:45:09-05:00
-featured_image: "images/posts/2023/cobb_boc_meeting_20231114.png"
-description: ""
+featured_image: 'img/posts/2023/cobb_boc_meeting_20231114.png'
+description:
 tags:
   - Holt Road
   - Sidewalks
@@ -18,7 +18,7 @@ Board of Commissioners](https://cobbcounty.org/board/) meeting on November 14,
 2023.
 
 Some condensed material was shared which summarized some of the concerns
-discussed during the [HRA Exploratory Meeting]({{< ref "hra_exploratory_meeting.md" >}}) 
+discussed during the [HRA Exploratory Meeting]({{< ref "hra_exploratory_meeting" >}}) 
 in October.
 
 

@@ -1,7 +1,7 @@
 ---
 title: Exploratory Meeting
 date: 2023-10-10T11:12:56-05:00
-featured_image: 'images/posts/marietta-coffee.jpg'
+featured_image: '/img/posts/wheeler.jpg'
 description:
 tags:
   - Holt Road
@@ -109,4 +109,4 @@ etc.)
 
 If you have any experience with these issues, or are a concerned neighbor in
 the area, we would love to speak with you.  Please leverage the form on the
-[Contact Us]({{< ref "contact" >}} "Contact Us") page.
+[Connect]({{< ref "connect" >}}) page.

@@ -1,8 +1,8 @@
 ---
-title: "Contact Us"
-featured_image: "images/hra-banner.jpg"
+title: Connect
+featured_image: 'img/hra-banner.jpg'
 omit_header_text: true
-description: "Get in touch!"
+description: 'Get in touch!'
 type: page
 menu: main
 ---
