@@ -35,7 +35,7 @@ such as [Adopt-a-mile](https://www.cobbcounty.org/keep-cobb-beautiful/litter-pre
 and to enable private fundraising for small beautification projects, and HRA-branded
 merchandise for community outreach.
 - Commuinication improvements - move away from email, and to something better
-suited for the task (such as the [HRA Facebook Group](https://www.facebook.com/groups/1381726902425845).
+suited for the task (such as the [HRA Facebook Group](https://www.facebook.com/groups/holtroadalliance).
   - Acknowleging that Facebook isn't the ideal answer to this problem, but there
   is existing community involvement with some unrelated groups of neighbors, such
   as [Stronger East Marietta](https://www.facebook.com/groups/840621983333773/).

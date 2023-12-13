@@ -15,7 +15,7 @@ For now, communication will be facilitated on Facebook.  While we recognize this
 is not necessarily ideal, we also recognize that it scales better than a loose
 email list.
 
-- [Holt Road Alliance Facebook Group](https://www.facebook.com/groups/1381726902425845)
+- [Holt Road Alliance Facebook Group](https://www.facebook.com/groups/holtroadalliance)
 
 
 ## Contact Holt Road Alliance Directly
