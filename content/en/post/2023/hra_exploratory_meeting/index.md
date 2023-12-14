@@ -30,11 +30,13 @@ along Holt Rd.
 school year.  The student was crossing Holt Rd. at a place where there was no
 crosswalk, and even if the student had used the existing crosswalk, the crosswalk
 itself had been partially broken and inoperable from the West side of Holt.
-for weeks prior.  There is conflicting information on if the severity of the
+for weeks prior.  There is conflicting information on the severity of the
 student's injuries.
+
 - Existing crosswalk linking [Wheeler High School](https://cobbk12.org/Wheeler)
 with [Eastvalley Elementary](https://cobbk12.org/eastvalley) has two primary
 issues:
+
   - Inconveniently located from where the majority of foot traffic tends to
   cross Holt Rd.
 
@@ -47,6 +49,7 @@ issues:
 leads to nowhere, just grass and dirt.  This forces a pedestrian who may be
 walking to or from the nearest cross street (Mary Ann Dr.) to make a potentially
 dangerous decision:
+
   - Either opt to not use the crosswalk and cross Robinson Rd. near a blind
   curve, or
   - Walk approx. 230' feet along a grass and dirt embankment.
@@ -100,9 +103,9 @@ for them.
 
 Next steps from this meeting will include:
 
-- Additional communication with te Cobb BOC (particularly [Jerica Richardson](https://www.cobbcounty.org/board/district-commissioners/district-2-commissioner),the present District 2 commissioner as of the time this 
+- Additional communication with the Cobb BOC (particularly [Jerica Richardson](https://www.cobbcounty.org/board/district-commissioners/district-2-commissioner),the present District 2 commissioner as of the time this 
 post was written).
-- Addiitonal community communication (email, web, social?)
+- Additional community communication (email, web, social?)
 - Identifying community outreach (walk feasibility study, walk-to-school event,
 etc.)
 - Forming Holt Road Alliance as a non-profit.
