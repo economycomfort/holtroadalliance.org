@@ -6,8 +6,8 @@ Assets for building https://holtroadalliance.org.
 ## Build instructions
 
 1. [Install Hugo](https://gohugo.io/installation/).
-2. Clone this repo: `git clone https://github.com/economycomfort/holtroadalliance.org`
-3. Pull the theme submodule: `git submodule update --init --recursive`
+2. Clone this repo: `git clone --recursive https://github.com/economycomfort/holtroadalliance.org`
+3. (Non-)Profit!
 
 
 ## Mostly built on:
