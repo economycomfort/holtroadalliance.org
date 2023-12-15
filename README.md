@@ -15,3 +15,10 @@ Assets for building https://holtroadalliance.org.
 - [Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) Hugo theme
 - Youtube shortcode improvements: https://martijnvanvreeden.nl/optimizing-the-youtube-shortcode-for-hugo/
 - Deployed on [Cloudflare](https://cloudflare.com)
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Licensed under the MIT License.
+See [LICENSE](LICENSE) file.
