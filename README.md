@@ -7,7 +7,8 @@ Assets for building https://holtroadalliance.org.
 
 1. [Install Hugo](https://gohugo.io/installation/).
 2. Clone this repo: `git clone --recursive https://github.com/economycomfort/holtroadalliance.org`
-3. (Non-)Profit!
+3. Serve the page locally via hugo: `cd holtroadalliance.org && hugo serve`
+4. (Non-)Profit!
 
 
 ## Mostly built on:
